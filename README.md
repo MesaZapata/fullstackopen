@@ -1,2 +1,0 @@
-# fullstackopen
-Entregables curso fullstackopen
