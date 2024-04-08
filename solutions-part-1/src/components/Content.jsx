@@ -2,7 +2,7 @@ import { Part } from "./Part";
 
 
 const Content = (props) => {
-  const content = props.content;
+  const content = props.course.content;
   return (
     <>
       {content.map((element) => {

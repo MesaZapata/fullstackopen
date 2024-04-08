@@ -1,10 +1,5 @@
 const Header = (props) => {
-
-  return (
-    <div>
-      <h1>{props.course}</h1>
-    </div>
-  );
+  return <h1>{props.course.part}</h1>;
 };
 
 export { Header };
